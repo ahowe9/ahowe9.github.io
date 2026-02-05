@@ -7,6 +7,6 @@ When creating the script, I wanted it to have these capabilities:
 - Encode the kinematic relationships so the user does not have to add joints
 - Create constraints and use geometry to ensure a valid set of input produces a pair of gears
 
-[![Customizer In Action](docs/assets/images/Screenshot 2026-02-04 234254.png)](docs/assets/videos/Untitled design (4).mp4)
+[Customizer In Action](docs/assets/videos/Untitled design (4).mp4)
 
 By completing this project, I was able to learn about how to construct complex geometry with the Fusion 360 API along with creating kinmatic relationships between components. This project lets the user iterate on a design on a much smaller time scale when compared to creating this design from scratch. In future iterations of this project, I want to add some checks to ensure that the user input is valid and make a nicer UI for the parameters.

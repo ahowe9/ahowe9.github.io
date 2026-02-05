@@ -1,4 +1,5 @@
 #Geneva Gear Customizer#
+
 For the dispensing robot project later on in the portfolio, my team initially thought of using a Geneva gear to dispense one item per revolution. The issue with this is that creating Geneva gears can take considerable time due to the complexity of the geometry and defining the joints to ensure proper motion. Due to this, iterating on the Geneva gears took a considerable amount of time, and I wanted a way to rapidly generate these gears.
 
 When creating the script, I wanted it to have these capabilities:

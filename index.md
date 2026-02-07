@@ -1,5 +1,5 @@
 # Projects
-Here is my portfolio of current and past projects:
+Welcome to my project portfolio. This collection gives a look into personal and academic projects that I have done.
 
 ## Current
 **[Constraint-Based Scheduling Tool](projects/schedule.md)**

@@ -25,6 +25,5 @@ Design goals:
 This is an image of a schedule that adheres to availability, tries to make the number of shifts equal, and does not allow someone to work the last shift ofone day and the first shift of the next day.
 
 ![Staff Availibility Table](/docs/assets/images/StaffAvailibilityTable.png)
-![Staff Schedule](/docs/assets/images/StaffTable.png)
 
-**[Homepage](/index.md)**
+![Staff Schedule](/docs/assets/images/StaffTable.png)

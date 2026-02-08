@@ -34,4 +34,4 @@ By completing this project, I was able to learn about how to construct complex g
 ## Future Versions
 In future iterations of this project, I want to add input validation to prevent certain sets of user inputs that would not create a valid topology. Additionally, I want to create a cleaner UI instead of the five different on-screen prompts.
 
-**[Homepage](index.md)**
+**[Homepage](/index.md)**

@@ -27,3 +27,4 @@ This is an image of a schedule that adheres to availability, tries to make the n
 ![Staff Availibility Table](/docs/assets/images/StaffAvailibilityTable.png)
 ![Staff Schedule](/docs/assets/images/StaffTable.png)
 
+**[Homepage](index.md)**

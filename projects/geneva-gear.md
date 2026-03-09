@@ -24,7 +24,7 @@ This script reduces the design iteration time from minutes to seconds, allowing 
 
 **Demo:** 
 *Click the image to see a video of the perspective*
-[![Customizer In Action](/docs/assets/images/GenevaGearThumbnail.png)](/docs/assets/videos/GenevaGearDemo.mp4)
+[![Customizer In Action](/docs/assets/images/GenevaGearThumbnail.png)](/docs/assets/videos/NewGenevaGearScript.mp4)
 
 ## Technical Highlights
 By completing this project, I was able to learn about how to construct complex geometry with the Fusion 360 API, along with creating kinematic relationships between components. 

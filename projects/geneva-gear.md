@@ -32,6 +32,7 @@ By completing this project, I was able to learn about how to construct complex g
 ## Recent Changes
 I recently added a GUI to the script so the user could see the updates to the gears in real time. Additionally, I included a feature using JSON to store the users parameters every time they use the add-in. There are safeguards put in place in case the JSON file is missing or the parameters have been deleted.
 
-(/
+![GUI Picture](/docs/assets/images/GUI.png)
+*Current look of the GUI*
 
 **[Homepage](/index.md)**

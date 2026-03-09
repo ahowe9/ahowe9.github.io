@@ -29,7 +29,9 @@ This script reduces the design iteration time from minutes to seconds, allowing 
 ## Technical Highlights
 By completing this project, I was able to learn about how to construct complex geometry with the Fusion 360 API, along with creating kinematic relationships between components. 
 
-## Future Versions
-In future iterations of this project, I want to add input validation to prevent certain sets of user inputs that would not create a valid topology. Additionally, I want to create a cleaner UI instead of the five different on-screen prompts.
+## Recent Changes
+I recently added a GUI to the script so the user could see the updates to the gears in real time. Additionally, I included a feature using JSON to store the users parameters every time they use the add-in. There are safeguards put in place in case the JSON file is missing or the parameters have been deleted.
+
+(/
 
 **[Homepage](/index.md)**

@@ -22,8 +22,20 @@ This required considering both the geometry of the detected curves and the physi
 
 The completed system allowed the robotic arm to interpret an input image and reproduce its curves using a Sharpie. The project demonstrated the integration of computer vision, geometric path generation, and robotic motion.
 
+### Test Images
+
+![](/docs/assets/images/ThisIsFine.png)
+
+*The original image sent to the program*
+
+
+![](/docs/assets/images/ThisIsFineDraw.jpeg)
+
+*The resulting drawing from the robot arm*
+
 ### Skills & Tools
 
+* ROS
 * Computer vision
 * Image processing
 * Curve detection

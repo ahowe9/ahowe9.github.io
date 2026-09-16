@@ -1,7 +1,7 @@
 # Projects
 Welcome to my project portfolio. This collection gives a look into personal and academic projects that I have done.
 
-**[Three-Speed RC Car Transmission](projecys/371.md)**
+**[Three-Speed RC Car Transmission](projects/371.md)**
 
 I designed and manufactured a transmission system for a custom RC car.
 

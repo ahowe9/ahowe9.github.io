@@ -16,3 +16,7 @@ I created a script using the Fusion 360 API that creates parametric Geneva gears
 **[Legged Walking Robot](projects/370.md)**
 
 I modeled and manufactured a walking robot that dispenses candy to hungry students.
+
+**[Computer Vision Robotic Drawing Arm](projects/robot.md)**
+
+I helped develop an algotithm to take an imput image and then draw a physical image with a robotic arm.

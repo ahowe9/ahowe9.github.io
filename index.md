@@ -1,15 +1,10 @@
 # Projects
 Welcome to my project portfolio. This collection gives a look into personal and academic projects that I have done.
 
-**[Three-Speed RC Car Transmission](projects/371.md)**
-
-I designed and manufactured a transmission system for a custom RC car.
 ## Physical Projects
 
-**[Geneva Gear Customizer](projects/geneva-gear.md)**
 **[Three-Speed RC Car Transmission](projects/371.md)**
 
-I created a script using the Fusion 360 API that creates parametric Geneva gears.
 I designed and manufactured a transmission system for a custom RC car.
 
 **[Legged Walking Robot](projects/370.md)**

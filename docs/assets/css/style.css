@@ -1,10 +1,161 @@
-.project-img {
-  width: 350px;
-  height: 220px;
-  object-fit: cover;
+/* =========================
+   Project Sections
+   ========================= */
+
+.category-title {
+  margin-top: 3rem;
+  margin-bottom: 1.25rem;
+  font-size: 1.5rem;
 }
-.projects {
+
+.project-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 20px;
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+
+/* =========================
+   Project Cards
+   ========================= */
+
+.project-card {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+
+  text-decoration: none;
+  color: inherit;
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  border-color: #cbd5e1;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+
+/* =========================
+   Project Images
+   ========================= */
+
+.project-card img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  display: block;
+}
+
+
+/* =========================
+   Card Content
+   ========================= */
+
+.project-content {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+
+  padding: 1.25rem;
+}
+
+.project-content h3 {
+  margin: 0 0 0.75rem;
+  font-size: 1.2rem;
+}
+
+.project-content p {
+  margin: 0 0 1rem;
+  line-height: 1.6;
+  color: #555;
+}
+
+
+/* =========================
+   Tags
+   ========================= */
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.9rem;
+}
+
+.tags span {
+  padding: 0.3rem 0.6rem;
+
+  background: #f1f5f9;
+  border-radius: 999px;
+
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: #475569;
+}
+
+
+/* =========================
+   Project Link
+   ========================= */
+
+.project-link {
+  margin-top: auto;
+
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+
+/* =========================
+   About Section
+   ========================= */
+
+.about-section {
+  margin-top: 5rem;
+  padding-top: 3rem;
+  border-top: 1px solid #e5e7eb;
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.skills-grid h3 {
+  margin-bottom: 0.5rem;
+}
+
+.skills-grid p {
+  color: #666;
+}
+
+
+/* =========================
+   Mobile
+   ========================= */
+
+@media (max-width: 700px) {
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .skills-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .project-card img {
+    height: 200px;
+  }
 }
